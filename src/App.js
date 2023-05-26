@@ -1,8 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 import React, { useState } from 'react';
+import Main from './components/main'
+
 
 function App() {
+  const [page, setpage] = useState('splash');
   return (
     <div className="App">
       <header className="App-header">
