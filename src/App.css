@@ -36,3 +36,113 @@
     transform: rotate(360deg);
   }
 }
+
+.resume-page {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.skills-list {
+  list-style: none;
+  padding: 0;
+}
+
+.resume-link {
+  margin-top: 20px;
+}
+
+.resume-link a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #337ab7;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.resume-link a:hover {
+  background-color: #23527c;
+}
+
+.about-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profile-image img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.about-text {
+  max-width: 400px;
+}
+
+.wide-image img {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+.description-section {
+  max-width: 600px;
+  text-align: center;
+}
+
+.footer {
+  background-color: #f8f8f8;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-left {
+  text-align: left;
+}
+
+.footer-middle {
+  text-align: center;
+}
+
+.footer-right {
+  text-align: right;
+}
+
+.footer-icon {
+  margin: 0 10px;
+  color: #888;
+  font-size: 20px;
+}
+
+.project-page {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.project-item {
+  max-width: 300px;
+  margin: 20px;
+  text-align: center;
+}
+
+.project-item h2 {
+  margin-bottom: 10px;
+}
+
+.project-item img {
+  max-width: 100%;
+  border-radius: 5px;
+}

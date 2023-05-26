@@ -1,10 +1,10 @@
 // import React, { useState } from "react";
-import Header from "../header";
-import Footer from "../footer";
-import About from "../about";
-import Contact from "../contact";
-import Resume from "../resume";
-import Project from "../project";
+import Header from "../Header";
+import Footer from "../Footer";
+import About from "../About";
+import Contact from "../Contact";
+import Resume from "../Resume";
+import Project from "../Project";
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
