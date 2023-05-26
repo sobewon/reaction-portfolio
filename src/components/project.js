@@ -3,6 +3,8 @@ import anime from '../assets/anime.png'
 import hobbybox from '../assets/hobbybox.jpeg'
 import weather from '../assets/weather-forecast.png'
 import planner from '../assets/work-planner.png'
+import yotsubaOld from '../assets/yotsubaFirst.png'
+import note from '../assets/notetaker.png'
 
 function Project() {
   const projects = [
@@ -25,6 +27,16 @@ function Project() {
       title: 'Planner',
       imageSrc: planner,
       githubLink: 'https://github.com/your_github_project_4',
+    },
+    {
+      title: 'Note Taker',
+      imageSrc: note,
+      githubLink: 'https://github.com/your_github_project_4',
+    },
+    {
+      title: 'My Very First HTML Page',
+      imageSrc: yotsubaOld,
+      githubLink: 'https://sobewon.github.io/JMPortfolio/',
     },
   ];
 

@@ -100,6 +100,49 @@
   text-align: center;
 }
 
+.header {
+  background-color: #333;
+  color: black; /* Updated text color to black */
+  padding: 20px;
+  display: flex;
+  justify-content: center; /* Center align navigation buttons */
+  align-items: center;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-title {
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.header-links {
+  display: flex;
+  gap: 20px;
+}
+
+.header-link {
+  color: white;
+  text-decoration: none;
+}
+
+.header-link:hover {
+  text-decoration: underline;
+}
+
+.header-link.active {
+  font-weight: bold;
+  color: red; /* Customize the active link color */
+}
+
+
+
+
 .footer {
   background-color: #f8f8f8;
   padding: 20px;
