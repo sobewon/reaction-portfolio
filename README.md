@@ -14,7 +14,7 @@ Window will automatically open for you to browse
 [GitHub Repo](https://github.com/sobewon/reaction-portfolio)
 
 ## Link to Live App
-[Link to Reaction Portfolio](https://github.com/sobewon/reaction-portfolio)
+[Link to Reaction Portfolio](https://sobewon.github.io/reaction-portfolio/)
 
 ## Screenshots of application
 ![Full size website](./src/assets/mainpage.png)
