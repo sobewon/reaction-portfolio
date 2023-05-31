@@ -11,32 +11,38 @@ function Project() {
     {
       title: 'Anime Explorer',
       imageSrc: anime,
-      githubLink: 'https://prestontravis.github.io/Anime_Explorer/',
+      deployedLink: 'https://prestontravis.github.io/Anime_Explorer/',
+      githubLink: 'https://github.com/prestontravis/Anime_Explorer',
     },
     {
       title: 'HobbyBox',
       imageSrc: hobbybox,
-      githubLink: 'https://hobbybox.herokuapp.com/',
+      deployedLink: 'https://hobbybox.herokuapp.com/',
+      githubLink: 'https://github.com/Qaizen/hobby-box',
     },
     {
       title: 'Track Z Weather',
       imageSrc: weather,
-      githubLink: 'https://sobewon.github.io/trackZweather/',
+      deployedLink: 'https://sobewon.github.io/trackZweather/',
+      githubLink: 'https://github.com/sobewon/trackZweather',
     },
     {
       title: 'Daily Planner',
       imageSrc: planner,
-      githubLink: 'https://sobewon.github.io/dailyPlanner/',
+      deployedLink: 'https://sobewon.github.io/dailyPlanner/',
+      githubLink: 'https://github.com/sobewon/dailyPlanner',
     },
     {
       title: 'Note Taker',
       imageSrc: note,
-      githubLink: 'https://note-taker-jm.herokuapp.com/',
+      deployedLink: 'https://note-taker-jm.herokuapp.com/',
+      githubLink: 'https://github.com/sobewon/NoteTaker',
     },
     {
       title: 'My Very First HTML Page',
       imageSrc: yotsubaOld,
-      githubLink: 'https://sobewon.github.io/JMPortfolio/',
+      deployedLink: 'https://sobewon.github.io/JMPortfolio/',
+      githubLink: 'https://github.com/sobewon/JMPortfolio',
     },
   ];
 
@@ -45,9 +51,10 @@ function Project() {
       {projects.map((project, index) => (
         <div key={index} className="project-item">
           <h2>{project.title}</h2>
-          <a href={project.githubLink} target="_blank" rel="noopener noreferrer">
+          <a href={project.deployedLink} target="_blank" rel="noopener noreferrer">
             <img src={project.imageSrc} alt={project.title} />
           </a>
+          <a href={project.githubLink} target="_blank" rel="noopener noreferrer"> Repo Link</a>
         </div>
       ))}
     </div>
