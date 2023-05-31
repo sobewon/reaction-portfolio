@@ -9,29 +9,29 @@ import note from '../assets/notetaker.png'
 function Project() {
   const projects = [
     {
-      title: 'Anime',
+      title: 'Anime Explorer',
       imageSrc: anime,
-      githubLink: 'https://github.com/your_github_project_1',
+      githubLink: 'https://prestontravis.github.io/Anime_Explorer/',
     },
     {
       title: 'HobbyBox',
       imageSrc: hobbybox,
-      githubLink: 'https://github.com/your_github_project_2',
+      githubLink: 'https://hobbybox.herokuapp.com/',
     },
     {
-      title: 'Weather',
+      title: 'Track Z Weather',
       imageSrc: weather,
-      githubLink: 'https://github.com/your_github_project_3',
+      githubLink: 'https://sobewon.github.io/trackZweather/',
     },
     {
-      title: 'Planner',
+      title: 'Daily Planner',
       imageSrc: planner,
-      githubLink: 'https://github.com/your_github_project_4',
+      githubLink: 'https://sobewon.github.io/dailyPlanner/',
     },
     {
       title: 'Note Taker',
       imageSrc: note,
-      githubLink: 'https://github.com/your_github_project_4',
+      githubLink: 'https://note-taker-jm.herokuapp.com/',
     },
     {
       title: 'My Very First HTML Page',

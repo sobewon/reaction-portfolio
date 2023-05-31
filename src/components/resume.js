@@ -5,13 +5,13 @@ function Resume() {
     <div className="resume-page">
       <h2>Skills</h2>
       <ul className="skills-list">
-        <li>Skill 1</li>
-        <li>Skill 2</li>
-        <li>Skill 3</li>
+        <li>Certified Full Stack Web Developer</li>
+        <li>Issue Diagnosis and Problem Resolver</li>
+        <li>Management of 20+ Group Members at Events</li>
         {/* Add more skills */}
       </ul>
       <div className="resume-link">
-        <a href="path_to_resume" target="_blank" rel="noopener noreferrer">Download Resume</a>
+        <a href="/jmresume.pdf" download='jmresume.pdf'target="_blank" rel="noopener noreferrer">Download Resume</a>
       </div>
     </div>
   );
