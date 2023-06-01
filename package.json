@@ -1,7 +1,7 @@
 {
-  "name": "jport",
+  "name": "reaction-portfolio",
   "version": "0.1.0",
-  "homepage": "http://sobewon.github.io/reaction-portfolio/",
+  "homepage": "https://sobewon.github.io/reaction-portfolio/",
   "private": true,
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
