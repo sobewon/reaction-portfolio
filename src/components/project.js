@@ -34,22 +34,16 @@ function Project() {
       githubLink: 'https://github.com/sobewon/dailyPlanner',
     },
     {
-      title: 'Note Taker',
-      imageSrc: note,
-      deployedLink: 'https://note-taker-jm.herokuapp.com/',
-      githubLink: 'https://github.com/sobewon/NoteTaker',
+      title: 'Our Final Project',
+      imageSrc: final,
+      deployedLink: 'https://project3-test.herokuapp.com/',
+      githubLink: 'https://github.com/Qaizen/curious-chronicles',
     },
     {
       title: 'My Very First HTML Page',
       imageSrc: yotsubaOld,
       deployedLink: 'https://sobewon.github.io/JMPortfolio/',
       githubLink: 'https://github.com/sobewon/JMPortfolio',
-    },
-    {
-      title: 'Our Final Project',
-      imageSrc: final,
-      deployedLink: 'https://project3-test.herokuapp.com/Home',
-      githubLink: 'https://github.com/Qaizen/curious-chronicles',
     },
   ];
 
