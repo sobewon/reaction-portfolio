@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reaction-portfolio/static/css/main.01430862.css",
+    "main.js": "/reaction-portfolio/static/js/main.20a68278.js",
+    "static/js/787.43f5fb1a.chunk.js": "/reaction-portfolio/static/js/787.43f5fb1a.chunk.js",
+    "static/media/cars.jpg": "/reaction-portfolio/static/media/cars.b578c14a735a75fdc1ae.jpg",
+    "static/media/yotsubaFirst.png": "/reaction-portfolio/static/media/yotsubaFirst.03223d337e8041297316.png",
+    "static/media/anime.png": "/reaction-portfolio/static/media/anime.b4cd21c0cfa7470bf7bf.png",
+    "static/media/hobbybox.jpeg": "/reaction-portfolio/static/media/hobbybox.fa55cc01fad0e55fe3f7.jpeg",
+    "static/media/final.png": "/reaction-portfolio/static/media/final.57dab68a92fd71ab56ba.png",
+    "static/media/yotsuba.jpg": "/reaction-portfolio/static/media/yotsuba.9bd30815d32d0c0a37e8.jpg",
+    "static/media/weather-forecast.png": "/reaction-portfolio/static/media/weather-forecast.75162ae529cd1cd95c91.png",
+    "static/media/work-planner.png": "/reaction-portfolio/static/media/work-planner.2db80467911f9b8e3d0e.png",
+    "static/media/notetaker.png": "/reaction-portfolio/static/media/notetaker.4776326082be16637fa4.png",
+    "index.html": "/reaction-portfolio/index.html",
+    "main.01430862.css.map": "/reaction-portfolio/static/css/main.01430862.css.map",
+    "main.20a68278.js.map": "/reaction-portfolio/static/js/main.20a68278.js.map",
+    "787.43f5fb1a.chunk.js.map": "/reaction-portfolio/static/js/787.43f5fb1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01430862.css",
+    "static/js/main.20a68278.js"
+  ]
+}
