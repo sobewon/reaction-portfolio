@@ -5,6 +5,7 @@ import weather from '../assets/weather-forecast.png'
 import planner from '../assets/work-planner.png'
 import yotsubaOld from '../assets/yotsubaFirst.png'
 import note from '../assets/notetaker.png'
+import final from '../assets/final.png'
 
 function Project() {
   const projects = [
@@ -43,6 +44,12 @@ function Project() {
       imageSrc: yotsubaOld,
       deployedLink: 'https://sobewon.github.io/JMPortfolio/',
       githubLink: 'https://github.com/sobewon/JMPortfolio',
+    },
+    {
+      title: 'Our Final Project',
+      imageSrc: final,
+      deployedLink: 'https://project3-test.herokuapp.com/Home',
+      githubLink: 'https://github.com/Qaizen/curious-chronicles',
     },
   ];
 
