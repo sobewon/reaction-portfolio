@@ -14,6 +14,7 @@ function Main({ setPage }) {
       <Header setPage={setPage} />
       <Routes>
         <Route path="/" element={<About />} />
+        <Route path="/reaction-portfolio" element={<About />} />
         <Route path="/about" element={<About />} />
         <Route path="/portfolio" element={<Project />} />
         <Route path="/resume" element={<Resume />} />
