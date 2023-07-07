@@ -12,7 +12,7 @@ function AboutPage() {
         <div className="about-text">
           <p>&#9996; "Hello there" &#9996;</p>
           <h2>John Magnuson</h2>
-          <p>Junior Full Stack Software Engineer</p>
+          <p>Full Stack Software Engineer</p>
           <p>Random Information Engulfer</p>
         </div>
       </div>
